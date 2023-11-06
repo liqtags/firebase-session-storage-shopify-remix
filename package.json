@@ -1,0 +1,17 @@
+{
+  "name": "firebase-session-storage-shopify-remix",
+  "version": "1.0.0",
+  "description": "A Firebase Session Storage For Shopify Remix Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Line",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/shopify-api": "^8.0.2",
+    "@shopify/shopify-app-remix": "^2.1.0",
+    "@shopify/shopify-app-session-storage": "^2.0.1",
+    "firebase-admin": "^11.11.0"
+  }
+}
